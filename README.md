@@ -1,1 +1,1 @@
-# Javascript-code
+# JavaScript-code
